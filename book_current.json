@@ -1,0 +1,19 @@
+{
+  "title": "可执行文件格式：ELF",
+  "description": "介绍常见的可执行文件格式：ELF。主要是Linux和Android中常见的格式。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "exec_file_format_elf"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/exec_file_format_elf/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/exec_file_format_elf/pdf/exec_file_format_elf.pdf"
+    }
+  }
+}

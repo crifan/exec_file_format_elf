@@ -1,0 +1,7 @@
+{
+  "latestVersion": "v0.6",
+  "lastUpdate": "20230920",
+  "gitRepoName": "exec_file_format_elf",
+  "bookName": "可执行文件格式：ELF",
+  "bookDescription": "介绍常见的可执行文件格式：ELF。主要是Linux和Android中常见的格式。"
+}
