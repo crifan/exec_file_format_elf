@@ -1,7 +1,7 @@
 {
-  "latestVersion": "v0.6",
-  "lastUpdate": "20230920",
+  "latestVersion": "v1.0.0",
+  "lastUpdate": "20231004",
   "gitRepoName": "exec_file_format_elf",
   "bookName": "可执行文件格式：ELF",
-  "bookDescription": "介绍常见的可执行文件格式：ELF。主要是Linux和Android中常见的格式。"
+  "bookDescription": "介绍常见的可执行文件格式：ELF。主要是Linux和Android的常见格式。先是ELF概览，包括ELF文件类型和术语和概念；然后是ELF结构详解，包括两种视图、结构图、链接和执行过程以及section节和segment段；然后介绍ELF的解析工具，包括读取信息的和解析修改的；读取信息的有Linux通用的readelf、objdump、rabin2等和Android专用的JEB等。且都有详细的安装、用法和举例；解析工具包括LIEF；然后专门介绍Android中的ELF格式。"
 }
