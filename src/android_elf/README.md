@@ -8,7 +8,7 @@
         * ![elf_android_oat_header](../assets/img/elf_android_oat_header.png)
   * 解析Android的ELF格式
     * 详见
-      * [LIEF解析OAT · 可执行文件格式](https://book.crifan.org/books/executable_file_format/website/related_tool/lief/usage_examples/parse_oat.html)
+      * [Android · 可执行文件格式](https://book.crifan.org/books/executable_file_format/website/related_tool/lief/usage_examples/parse_android/)
 
 ## dex格式
 
