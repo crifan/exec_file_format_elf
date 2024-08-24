@@ -13,6 +13,7 @@
   * [segment段](elf_overview/segment.md)
 * [ELF解析工具](elf_parse_tool/README.md)
   * [读取信息](elf_parse_tool/read_info/README.md)
+    * [导出字符串资源信息](elf_parse_tool/read_info/export_res_info.md)
     * [Linux通用](elf_parse_tool/read_info/linux_common/README.md)
       * [readelf](elf_parse_tool/read_info/linux_common/readelf/README.md)
         * [安装](elf_parse_tool/read_info/linux_common/readelf/install.md)
